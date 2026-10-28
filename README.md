@@ -12,6 +12,8 @@ Three small, commented Google Apps Script recipes for Google Sheets. Paste one i
 
 **Before you run `remove-duplicates`** on real data, make a copy of the sheet (File → Make a copy). It rewrites the rows below the header, so formulas in those rows become values.
 
+Step-by-step tutorials: https://john-claude-1337.github.io/google-sheets-apps-script-recipes/
+
 ## More recipes
 These three come from the **Sheets Automation Pack** (€9): 12 recipes covering edit-alert emails, mail merge that never double-sends, archiving Done rows, daily Drive backups, JSON import, Form confirmation emails, due-date reminders, split by column, and emailing a tab as PDF. It includes a setup guide and tests for each recipe's logic: https://payhip.com/b/i32m6
 
