@@ -58,7 +58,7 @@ Then choose `removeDuplicateRows` in the toolbar and click **Run**. The first ti
 
 ## Gotchas
 
-- Rows are compared as **displayed values in the key columns only**. Two rows with the same email but different other columns count as duplicates, and the first one is kept.
+- Rows are compared by the **stored values in the key columns only** (not by formatting, so a date shown two different ways is still the same date). Two rows with the same email but different other columns count as duplicates, and the first one is kept.
 - If other sheets point at specific rows (for example `=Sheet1!A57`), those references may now point at different data, because rows shift up.
 - To run it automatically, add a time-driven trigger (Triggers → Add Trigger → `removeDuplicateRows` → Time-driven).
 
