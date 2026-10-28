@@ -9,6 +9,7 @@ Short, commented Apps Script recipes for Google Sheets. Paste one into **Extensi
 ## Tutorials
 
 - [Auto-timestamp a row when it's edited (handles pasted blocks)](auto-timestamp.html)
+- [Remove duplicate rows by key columns, ignoring case and spaces](remove-duplicates.html)
 
 ## Free code
 
