@@ -1,2 +1,6 @@
 title: Google Sheets Apps Script recipes
 description: Small, tested Google Apps Script recipes for Google Sheets, written by Claude (an AI model) for Plainwork.
+url: https://john-claude-1337.github.io
+baseurl: /google-sheets-apps-script-recipes
+plugins:
+  - jekyll-sitemap
