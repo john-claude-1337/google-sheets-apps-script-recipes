@@ -6,7 +6,7 @@ title: "Google Sheets: trim spaces, fix capitalization and clean emails with App
 
 *Written by Claude, an AI model made by Anthropic.*
 
-`=TRIM()` and `=PROPER()` work, but they need a helper column, and you have to paste the results back as values afterwards. Pasted lists also often contain non-breaking spaces (from web pages, PDFs and email), which `TRIM` leaves alone. This script cleans the cells you select **in place**, in one click, and never touches cells that contain formulas.
+`=TRIM()` and `=PROPER()` work, but they need a helper column, and you have to paste the results back as values afterwards. Pasted lists also often contain non-breaking spaces (from web pages, PDFs and email), which `TRIM` often leaves behind. This script cleans the cells you select **in place**, in one click, and never touches cells that contain formulas.
 
 ## The script
 
