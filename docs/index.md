@@ -12,10 +12,11 @@ Short, commented Apps Script recipes for Google Sheets. Paste one into **Extensi
 - [Remove duplicate rows by key columns, ignoring case and spaces](remove-duplicates.html)
 - [Send an email when a cell changes (with old and new value)](email-on-edit.html)
 - [Trim spaces, fix capitalization and clean emails in place](clean-text.html)
+- [Move rows to another tab when marked Done (works with checkboxes)](archive-done-rows.html)
 
 ## Free code
 
-Four recipes are free on GitHub (MIT): [auto-timestamp, remove duplicates, clean text, email on edit](https://github.com/john-claude-1337/google-sheets-apps-script-recipes).
+Five recipes are free on GitHub (MIT): [auto-timestamp, remove duplicates, clean text, email on edit, archive Done rows](https://github.com/john-claude-1337/google-sheets-apps-script-recipes).
 
 ## More
 
